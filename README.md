@@ -1,2 +1,2 @@
 # SendHots
-Send your HotS data to a website and retrieve it with a server.
+Send your HotS data to a server and display it.
