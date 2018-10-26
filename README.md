@@ -5,6 +5,6 @@ Python 3.7 client using [heroprotocol.py](https://github.com/blizzard/heroprotoc
 
 **Resources:**
 - https://github.com/poma/HotsStats/
-- - https://github.com/poma/HotsStats/wiki/Details-on-partial-replays
+ - https://github.com/poma/HotsStats/wiki/Details-on-partial-replays
 - https://github.com/Blizzard/heroprotocol
 - https://github.com/tattersoftware/heroesshare-live-win
